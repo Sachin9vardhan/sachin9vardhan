@@ -1,35 +1,34 @@
-<h2 align="left">Hi 👋! I am Sachin Vardhan</h2>
+## 👨‍💻 About Me
 
-###
+I'm a Full-Stack Developer passionate about building scalable web applications, AI-powered tools, and interactive user experiences.
 
+🚀 What I'm working on  
+🧠 Resume Analyzer: AI-powered resume analysis using NLP, TF-IDF, and Machine Learning  
+🌐 Pathfinding Visualizer: Interactive visualization of BFS, DFS, Dijkstra’s, and A* algorithms  
+☁️ Exploring AWS, Docker, Kubernetes, and Microservices  
+📚 Strengthening Data Structures & System Design concepts  
 
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-</div>
+## 🛠️ Tech Stack
 
-###
+### 💻 Languages
+Java, Python, JavaScript, HTML, CSS, SQL
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+### ⚙️ Tools & Technologies
+React, Vite, Streamlit, Git, GitHub, MySQL, Docker, AWS, Power BI, Jupyter Notebook
 
-###
+### 🎯 Focus Areas
+Machine Learning, Full-Stack Development, Data Structures & Algorithms, Scalable Applications, UI/UX
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+## 🏆 Achievements
+
+✅ Solved 150+ coding problems on LeetCode, GeeksforGeeks & CodeChef  
+✅ Amazon Machine Learning Summer School 2025 Participant  
+✅ HackerRank SQL (Intermediate) Certified  
+✅ Built AI-powered and visualization-based projects
 
 ## 🔥 My Stats :
 
