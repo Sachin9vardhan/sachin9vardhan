@@ -4,12 +4,6 @@
 
 I'm a Full-Stack Developer passionate about building scalable web applications, AI-powered tools, and interactive user experiences.
 
-🚀 What I'm working on  
-🧠 Resume Analyzer: AI-powered resume analysis using NLP, TF-IDF, and Machine Learning  
-🌐 Pathfinding Visualizer: Interactive visualization of BFS, DFS, Dijkstra’s, and A* algorithms  
-☁️ Exploring AWS, Docker, Kubernetes, and Microservices  
-📚 Strengthening Data Structures & System Design concepts  
-
 ---
 
 ## 🛠️ Tech Stack
