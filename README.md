@@ -2,9 +2,16 @@
 
 ###
 
+## 🔥 My Stats :
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sachin9vardhan/sachin9vardhan/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Sachin9vardhan/sachin9vardhan/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sachin9vardhan&show_icons=true&theme=tokyonight" height="150" alt="stats graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin9vardhan&layout=compact&theme=tokyonight" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sachin9vardhan&theme=tokyonight" height="220" alt="streak graph" />
 </div>
 
 
