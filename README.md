@@ -7,11 +7,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -80,21 +76,59 @@
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-Github
-Donate
-Share
-<!--
-**Sachin9vardhan/sachin9vardhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Connect With Me
 
-Here are some ideas to get you started:
+<div align="left">
+  <a href="https://www.linkedin.com/in/sachin-vardhan-637177256/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/Sachin9vardhan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://x.com/sachin_v29" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <a href="mailto:sachinvardhan29@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Resume Analyzer
+AI-powered resume analysis platform using NLP, TF-IDF, RandomForest, and PDF parsing.
+
+🔗 Live Demo:  
+https://resumeanalyzernew-83vctmabypv5uf6qfka7or.streamlit.app/
+
+### 🔹 Pathfinding Algorithm Visualizer
+Interactive visualization of BFS, DFS, Dijkstra’s, and A* algorithms using React + Vite.
+
+🔗 Live Demo:  
+https://pathfinding-visualizer-three-ruddy.vercel.app/
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Machine Learning
+- AWS Cloud
+- Spring Boot & Microservices
+- Docker & Kubernetes
+
+---
+
+## 🏆 Achievements
+
+- Solved 150+ coding problems on LeetCode, GeeksforGeeks & CodeChef
+- Amazon ML Summer School 2025 Participant
+- HackerRank SQL (Intermediate) Certified
+- Built multiple full-stack & ML-based projects
+
+---
