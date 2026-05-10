@@ -1,3 +1,5 @@
+### Hi, I am Sachin Vardhan
+
 ## 👨‍💻 About Me
 
 I'm a Full-Stack Developer passionate about building scalable web applications, AI-powered tools, and interactive user experiences.
@@ -13,22 +15,31 @@ I'm a Full-Stack Developer passionate about building scalable web applications, 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-Java, Python, JavaScript, HTML, CSS, SQL
+Java, Python, JavaScript, SQL
 
 ### ⚙️ Tools & Technologies
-React, Vite, Streamlit, Git, GitHub, MySQL, Docker, AWS, Power BI, Jupyter Notebook
-
+React, Vite, Streamlit, Git, GitHub, MySQL, Docker, AWS
 ### 🎯 Focus Areas
-Machine Learning, Full-Stack Development, Data Structures & Algorithms, Scalable Applications, UI/UX
+Machine Learning, Full-Stack Development, Data Structures & Algorithms, Scalable Applications
+
+---
+
+## 📚 Currently Learning
+
+- AWS Cloud
+- Spring Boot & Microservices
+- Docker & Kubernetes
 
 ---
 
 ## 🏆 Achievements
 
-✅ Solved 150+ coding problems on LeetCode, GeeksforGeeks & CodeChef  
-✅ Amazon Machine Learning Summer School 2025 Participant  
-✅ HackerRank SQL (Intermediate) Certified  
-✅ Built AI-powered and visualization-based projects
+- Solved 150+ coding problems on LeetCode, GeeksforGeeks & CodeChef
+- Amazon ML Summer School 2025 Participant
+- HackerRank SQL (Intermediate) Certified
+- Built multiple full-stack & ML-based projects
+
+---
 
 ## 🔥 My Stats :
 
@@ -41,6 +52,26 @@ Machine Learning, Full-Stack Development, Data Structures & Algorithms, Scalable
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sachin9vardhan&theme=tokyonight" height="220" alt="streak graph" />
 </div>
+
+
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Resume Analyzer
+AI-powered resume analysis platform using NLP, TF-IDF, RandomForest, and PDF parsing.
+
+🔗 Live Demo:  
+https://resumeanalyzernew-83vctmabypv5uf6qfka7or.streamlit.app/
+
+### 🔹 Pathfinding Algorithm Visualizer
+Interactive visualization of BFS, DFS, Dijkstra’s, and A* algorithms using React + Vite.
+
+🔗 Live Demo:  
+https://pathfinding-visualizer-three-ruddy.vercel.app/
+
+---
 
 
 
@@ -64,39 +95,3 @@ Machine Learning, Full-Stack Development, Data Structures & Algorithms, Scalable
   </a>
 </div>
 
----
-
-## 🚀 Featured Projects
-
-### 🔹 Resume Analyzer
-AI-powered resume analysis platform using NLP, TF-IDF, RandomForest, and PDF parsing.
-
-🔗 Live Demo:  
-https://resumeanalyzernew-83vctmabypv5uf6qfka7or.streamlit.app/
-
-### 🔹 Pathfinding Algorithm Visualizer
-Interactive visualization of BFS, DFS, Dijkstra’s, and A* algorithms using React + Vite.
-
-🔗 Live Demo:  
-https://pathfinding-visualizer-three-ruddy.vercel.app/
-
----
-
-## 📚 Currently Learning
-
-- Data Structures & Algorithms
-- Machine Learning
-- AWS Cloud
-- Spring Boot & Microservices
-- Docker & Kubernetes
-
----
-
-## 🏆 Achievements
-
-- Solved 150+ coding problems on LeetCode, GeeksforGeeks & CodeChef
-- Amazon ML Summer School 2025 Participant
-- HackerRank SQL (Intermediate) Certified
-- Built multiple full-stack & ML-based projects
-
----
